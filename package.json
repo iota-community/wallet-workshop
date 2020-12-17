@@ -1,0 +1,16 @@
+{
+  "name": "wallet-tutorial",
+  "version": "0.0.1",
+  "description": "A tutorial for the node.js bindings of wallet.rs",
+  "main": "1-create-account.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "iota-wallet": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave de Fijter - IOTA Foundation",
+  "license": "Apache-2.0"
+}
